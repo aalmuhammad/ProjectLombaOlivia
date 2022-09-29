@@ -559,7 +559,7 @@ section {
 }
 
 .section-bg {
-  background-color: #FAFF00; /*#f1f7fd;*/
+  background-color: #f1f7fd;
 }
 
 .section-title {
@@ -688,7 +688,7 @@ section {
   display: inline-block;
   background: rgba(255, 255, 255, 0.2);
   padding: 6px 30px 8px 30px;
-  color: #fff;
+  color: #FAFF00;
   border-radius: 50px;
   transition: all ease-in-out 0.4s;
 }
@@ -698,7 +698,7 @@ section {
 }
 
 .why-us .content .more-btn:hover {
-  color: #1977cc;
+  color: #FAFF00;
   background: #fff;
 }
 
