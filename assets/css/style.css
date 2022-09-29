@@ -177,7 +177,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
-  top: 40px;
+  top: 0px;
   box-shadow: 0px 2px 15px rgba(25, 119, 204, 0.1);
 }
 
@@ -509,7 +509,7 @@ h6 {
   border-radius: 50px;
   transition: 0.5s;
   color: #fff;
-  background: #1977cc;
+  background: #1fac96;
 }
 
 #hero .btn-get-started:hover {
@@ -669,7 +669,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .content {
   padding: 30px;
-  background: #1977cc;
+  background: #1fac96;
   border-radius: 4px;
   color: #fff;
 }
@@ -688,7 +688,7 @@ section {
   display: inline-block;
   background: rgba(255, 255, 255, 0.2);
   padding: 6px 30px 8px 30px;
-  color: #FAFF00;
+  color: #fff;
   border-radius: 50px;
   transition: all ease-in-out 0.4s;
 }
@@ -698,7 +698,7 @@ section {
 }
 
 .why-us .content .more-btn:hover {
-  color: #FAFF00;
+  color: #1977cc;
   background: #fff;
 }
 
@@ -948,6 +948,10 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+.services .section-title {
+margin-top: 50px;
+}
+
 .services .icon-box {
   text-align: center;
   border: 1px solid #d5e1ed;
@@ -1130,6 +1134,11 @@ section {
   overflow: hidden;
 }
 
+.departments .section-title {
+  margin-top: 50px;
+}
+
+
 .departments .nav-tabs {
   border: 0;
 }
@@ -1191,6 +1200,10 @@ section {
 --------------------------------------------------------------*/
 .doctors {
   background: #fff;
+}
+
+.doctors .section-title {
+  margin-top: 50px;
 }
 
 .doctors .member {
